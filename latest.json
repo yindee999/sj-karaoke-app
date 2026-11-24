@@ -1,9 +1,9 @@
 {
- "versionCode": 9,
- "versionName": "1.0.8",
- "apk": "https://github.com/yindee999/sj-karaoke-app/releases/download/v1.0.8/SJ-Karaoke-1.0.8.apk",
- "sha256": "bf93e07576af8f10f11ebdbcbb83109ddf9e707250089ed4075363b8f2091506",
- "size": 44033668,
- "notes_th": "เวอร์ชันแรก\n• เพลงตัวอย่าง 5 เพลง + เสียงดนตรีในตัว\n• VU แต่ละแทร็ก · ภาพพื้นหลังเนื้อเพลง\n• ต่อคีย์บอร์ด USB MIDI\n• นำเข้า / ลบ SoundFont\n• แจ้งเตือนอัปเดตในแอป",
- "notes_en": "First release"
+ "versionCode": 10,
+ "versionName": "1.0.9",
+ "apk": "https://github.com/yindee999/sj-karaoke-app/releases/download/v1.0.9/SJ-Karaoke-1.0.9.apk",
+ "sha256": "d9fcecba334b6026c0036171a4670a74cca4d99a97d6689510cb454e5a6977e7",
+ "size": 44051056,
+ "notes_th": "• 🎶 เมดเล่ย์: ร้องต่อกันตามคิว (Pro)\n• ทดลองใช้ 7 วัน หรือ 100 เพลง\n• นำเข้า SoundFont เปิดที่โฟลเดอร์ Download\n• ปรับปรุงความปลอดภัย",
+ "notes_en": "• Medley mode (Pro)\n• Trial: 7 days or 100 songs\n• Security improvements"
 }
